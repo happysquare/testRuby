@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+test_article_one:
+  title: "Test article one"
+  user: james
+  body: "MyText one"
+  published_at: <%= 3.days.ago %>
+
+test_article_two:
+  title: "Test article two"
+  user: someone
+  body: "MyText two"
+  published_at: <%=2.days.ago %>

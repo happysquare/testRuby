@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+james:
+  email: 'james@happysquare.com.au'
+  hashed_password: 'ac349ba76c768dac32bce1308069de5de4ae05ae'  #=> soph22
+
+someone:
+  email: 'someone@somewhere.com'
+  hashed_password: 'ac349ba76c768dac32bce1308069de5de4ae05ae'  #=> soph22
